@@ -1,12 +1,14 @@
 [
   {
+    "type": "git",
     "url": "https://github.com/toimc/tools-extensions/raw/main/extensions1.zip",
     "name": "extensions1",
     "desc": "this is a test"
   },
   {
-    "url": "xxx",
-    "name": "extensions 2",
+    "type": "package",
+    "name": "create-vue-template",
+    "version": "0.2.9",
     "desc": "this is a test"
   },
   {
